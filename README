@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=860
+
+Just your basic indent script. Works fairly well in most circumstances, though the odd issue still exists with multi-line conditions, and object definitions may not come out as you like them to.
+
+Includes a rudimentary ftplugin script.
